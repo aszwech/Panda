@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Panda</string>
+    <string name="banner">Baner</string>
+    <string name="project">Projektuj!</string>
+    <string name="content_body">To jest moja Panda!</string>
+    <string name="share">Udostępij!</string>
+    <string name="type_jpg">image/jpeg!</string>
+    <string name="subject">Mój projekt z aplikacji Panda</string>
+    <string name="show">Pokaż</string>
+</resources>
